@@ -1,0 +1,14 @@
+{
+	"name": "dataimport",
+	"version": "1.0.0",
+	"description": "Import json to firebase",
+	"main": "config.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Shail Patel",
+	"license": "ISC",
+	"dependencies": {
+		"firestore-export-import": "^0.3.0"
+	}
+}
